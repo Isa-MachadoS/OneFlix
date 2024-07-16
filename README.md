@@ -1,10 +1,10 @@
 
-### Banner
+### OneFlix
 ![Banner](public/imagens/capa-one-piece1.png)
 
 ---
 
-# Projeto de Gestão de Vídeos
+# Projeto de Gestão e Visualização de Vídeos
 
 Este projeto é uma aplicação web para gestão de vídeos, permitindo aos usuários adicionar, editar, excluir e favoritar vídeos. A aplicação é construída com foco em fornecer uma interface amigável e intuitiva para a organização e visualização.
 
