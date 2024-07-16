@@ -1,70 +1,73 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Banner
+![Banner](public/imagens/capa-one-piece1.png)
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+# Projeto de Gestão de Vídeos
 
-### `npm start`
+Este projeto é uma aplicação web para gestão de vídeos, permitindo aos usuários adicionar, editar, excluir e favoritar vídeos. A aplicação é construída com foco em fornecer uma interface amigável e intuitiva para a organização e visualização.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Funcionalidades
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Adicionar Vídeos:** Os usuários podem adicionar novos vídeos ao sistema através de um formulário. As informações incluem título, categoria, URL da capa, link do vídeo e descrição.
+- **Editar Vídeos:** Os vídeos existentes podem ser editados para atualizar qualquer uma das informações fornecidas.
+- **Excluir Vídeos:** Vídeos podem ser removidos da lista.
+- **Favoritar Vídeos:** Os usuários podem marcar vídeos como favoritos para fácil acesso.
+- **Gestão de Categorias:** Os usuários podem selecionar categorias existentes ou criar novas categorias ao adicionar vídeos.
 
-### `npm test`
+## Ferramentas e Técnicas Utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **React:** Biblioteca JavaScript para construção de interfaces de usuário.
+- **useState e useEffect:** Hooks do React para gerenciar estado e efeitos colaterais.
+- **Componentização:** Utilização de componentes reutilizáveis para construir a interface de forma modular e organizada.
+- **CSS Modules:** Estilização dos componentes utilizando CSS Modules para garantir escopo local e evitar conflitos de estilos.
+- **Local Storage:** Persistência de dados no navegador para manter os vídeos salvos entre sessões.
 
-### `npm run build`
+## Configuração e Execução
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Pré-requisitos
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Node.js
+- npm ou yarn
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Instalação
 
-### `npm run eject`
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-projeto.git
+   ```
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd seu-projeto
+   ```
+3. Instale as dependências:
+   ```bash
+   npm install
+   ```
+   ou
+   ```bash
+   yarn install
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Execução
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para iniciar a aplicação em modo de desenvolvimento, execute:
+```bash
+npm start
+```
+ou
+```bash
+yarn start
+```
+A aplicação estará disponível em `http://localhost:3000`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Contato
 
-## Learn More
+- **Nome:** Isadora Machado
+- **Email:** izzymachados@gmail.com
+- **GitHub:** [Isa-MachadoS]([https://github.com/seu-usuario](https://github.com/Isa-MachadoS))
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
