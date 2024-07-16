@@ -1,0 +1,21 @@
+.video-row {
+    margin-bottom: 20px;
+}
+  
+.video-row h2 {
+    color: #f5f5f5;
+    margin-left: 20px;
+}
+  
+  
+.video-cards {
+    display: flex;
+    overflow-x: scroll;
+    padding: 10px;
+}
+
+@media (max-width: 720px) {
+    .video-row h2 {
+        font-size: 12px;
+    }
+}

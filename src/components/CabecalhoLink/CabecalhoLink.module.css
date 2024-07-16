@@ -1,0 +1,40 @@
+.link {
+    display: flex;
+    text-decoration: none;
+    color: #f5f5f5;
+    font-size: 1.25rem;
+    font-weight: 900;
+    border: 2px solid #f5f5f5;
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 54px;
+    margin-left: 20px;
+}
+
+.link.active {
+    color: #d10000;
+    border-color: #d10000;
+    box-shadow: 0px 1px 20px 0px rgba(209, 34, 34, 0.7);
+}
+
+
+@media (max-width: 1024px) {
+    .link {
+        font-size: 0.8rem;
+        width: 120px;
+        height: 40px;
+    }
+}
+
+@media (max-width: 720px) {
+    .link {
+        font-size: 0.4rem;
+        width: 80px;
+        height: 30px;
+    }
+}

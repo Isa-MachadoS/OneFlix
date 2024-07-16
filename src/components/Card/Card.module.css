@@ -1,0 +1,58 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    scrollbar-color: #999 #333;
+    background-color: #333;
+    margin: 10px;
+    margin-top: 0;
+    width: 600px;
+    text-align: center;
+    align-items: center;
+}
+
+.capa {
+    width: 100%;
+}
+
+.container h2,
+.favoritar {
+    padding: 0 ;
+    font-family: "League Gothic", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+}
+
+.favoritar {
+    width: 25px;
+}
+
+.link {
+    text-decoration: none;
+    color: #f5f5f5;
+    text-align: left;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    margin: 10px;
+}
+
+.iconesLinha {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.iconesLinha p {
+    color: #f5f5f5;
+    font-family: "League Gothic", sans-serif;
+    font-weight: 200;
+}

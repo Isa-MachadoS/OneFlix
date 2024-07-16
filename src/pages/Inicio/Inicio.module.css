@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: space-between;
+}
+
+.video-row-wrapper {
+    margin-bottom: 20px; 
+  }

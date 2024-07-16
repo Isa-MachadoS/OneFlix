@@ -1,0 +1,65 @@
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.playerWrapper {
+    position: relative;
+    width: 80%;
+    max-width: 800px;
+    overflow: hidden;
+    background: #333;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.reactPlayer {
+    width: 100% !important;
+    height: 410px !important;
+}
+
+.info {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.title {
+    font-size: 24px;
+    margin: 0;
+}
+
+.description {
+    font-size: 16px;
+    margin-top: 10px;
+    color: #f5f5f5;
+}
+
+.closeButton {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.closeIcon {
+    font-size: 24px;
+    color: #f5f5f5;
+}
+
+@media (max-width: 720px) {
+    .reactPlayer {
+        width: 100% !important;
+        height: 218px !important;
+    }
+}

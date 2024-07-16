@@ -1,0 +1,28 @@
+.capa {
+    position: relative;
+    width: 100%;
+    height: 830px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.overlay {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+@media (max-width: 1024px) {
+    .capa {
+        width: 100%;
+        height: 450px;
+    }
+}
+
+@media (max-width: 720px) {
+    .capa {
+        height: 270px;
+    }
+}

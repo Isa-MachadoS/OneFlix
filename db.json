@@ -1,0 +1,101 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "One Piece Film: Gold",
+      "descricao": " Neste filme, os Chapéus de Palha encontram-se na cidade de Gran Tesoro, um paraíso de jogos e entretenimento governado pelo poderoso Gild Tesoro. Eles enfrentam desafios únicos enquanto tentam superar as ambições do governante implacável.",
+      "capa": "https://img.youtube.com/vi/YYnal1n0bBY/hqdefault.jpg" ,
+      "link": "https://www.youtube.com/watch?v=YYnal1n0bBY",
+      "categoria": "Aventuras e Confrontos no Novo Mundo"
+    },
+    {
+      "id": 2,
+      "titulo": "One Piece: Heart of Gold",
+      "descricao": "Uma misteriosa menina chamada Olga é feita refém pelo Governo Mundial. Ela sabe do paradeiro do Puro Ouro, um tesouro capaz de comprar todo o mundo e desejado pelos Dragões Celestiais. Mas Mad Treasure, um poderoso caçador de tesouros, também deseja o Puro Ouro, e perseguirá a menina até obtê-lo. Quando Olga acaba a bordo do Thousand Sunny, Luffy e os Chapéus de Palha decidem também entrar na briga pelo Puro Ouro!",
+      "capa": "https://img.youtube.com/vi/Z76HMpNy_8M/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=Z76HMpNy_8M",
+      "categoria": "Aventuras e Confrontos no Novo Mundo"
+    },
+    {
+      "id": 3,
+      "titulo": "One Piece Film: Z",
+      "descricao":"Os Chapéus de Palha enfrentam o poderoso Z, um ex-almirante da Marinha que ameaça destruir o Novo Mundo com suas ambições perigosas. Eles devem lutar contra adversidades esmagadoras para proteger seu mundo.",
+      "capa": "https://img.youtube.com/vi/1gGt1Mg_zSo/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=1gGt1Mg_zSo",
+      "categoria": "Aventuras e Confrontos no Novo Mundo"
+    },
+    {
+      "id": 4,
+      "titulo": "One Piece: Strong World",
+      "descricao":"Luffy e sua tripulação enfrentam o poderoso pirata Shiki, que ameaça o East Blue com suas habilidades do Akuma no Mi. Uma aventura cheia de ação e perigo os aguarda.",
+      "capa": "https://img.youtube.com/vi/3n58UPvcD7I/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=3n58UPvcD7I",
+      "categoria": "Desafios em Ilhas Misteriosas"
+    },
+    {
+      "id": 5,
+      "titulo": "One Piece: Stampede",
+      "descricao":"O Festival dos Piratas traz uma série de desafios para os Chapéus de Palha, incluindo uma caça ao tesouro que atrai piratas de todo o mundo. Com revelações emocionantes e batalhas intensas, esta história comemora o 20º aniversário do anime.",
+      "capa": "https://img.youtube.com/vi/gC6RU45iOOk/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=gC6RU45iOOk",
+      "categoria": "Aventuras e Confrontos no Novo Mundo"
+    },
+    {
+      "id": 6,
+      "titulo": "One Piece 3D2Y - Overcoming Ace's Death!",
+      "descricao":"Luffy e seus amigos passam dois anos se fortalecendo depois dos acontecimentos da última batalha. Quando o treinamento dele está quase completo, Boa Hancock pede ajuda!",
+      "capa": "https://img.youtube.com/vi/ylh4so3tg5g/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=ylh4so3tg5g",
+      "categoria": "Histórias Focadas em Personagens"
+    },
+    {
+      "id": 7,
+      "titulo": "Chopper's Kingdom on the Island of Strange Animals",
+      "descricao":"Chopper assume o papel de protagonista neste filme, enquanto os Chapéus de Palha enfrentam uma ilha cheia de animais estranhos e uma ameaça misteriosa. A lealdade de Chopper é testada enquanto ele luta para proteger seus novos amigos.",
+      "capa": "https://img.youtube.com/vi/V4L2WpS3L4c/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=V4L2WpS3L4c&list=PLm-_o7hx5WP2UA1j5g6dtHqRpBLSAWFln",
+      "categoria": "Histórias Focadas em Personagens"
+    },
+    {
+      "id": 8,
+      "titulo": "ONE PIECE FILM: RED",
+      "descricao":"Uma reviravolta emocionante ocorre quando é revelado que Uta, a cantora mais amada do mundo, é a filha de ninguém menos que Shanks. Essa revelação desencadeia uma nova história cheia de surpresas, emoções e conflitos.",
+      "capa": "https://img.youtube.com/vi/JvqcaQJgr-A/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=JvqcaQJgr-A",
+      "categoria": "Histórias Focadas em Personagens"
+    },
+    {
+      "id": 9,
+      "titulo": "One Piece: The Cursed Holy Sword",
+      "descricao":"O bando enfrenta a maldição de uma espada lendária enquanto desembarca em uma ilha misteriosa. Eles devem superar desafios perigosos e inimigos poderosos para quebrar a maldição e proteger a ilha.",
+      "capa": "https://img.youtube.com/vi/ByGSt2vKgPI/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=ByGSt2vKgPI&list=PLNNBcZ9KokttM7kJozKj4q76-QJuJKtFM&index=2",
+      "categoria": "Desafios em Ilhas Misteriosas"
+    },
+    {
+      "id": 10,
+      "titulo": "ONE PIECE FILME: BARÃO OMATSURI E A ILHA SECRETA",
+      "descricao": "Uma ilha resort misteriosa recebe os Chapéus de Palha, mas as coisas logo tomam um rumo sombrio. Eles são levados a testar sua camaradagem em provas desafiadoras enquanto lutam para descobrir os segredos sombrios da ilha.",
+      "capa": "https://img.youtube.com/vi/lI5aTkteI-0/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=lI5aTkteI-0&list=PLKfGZLTRErA-_lJELaoF9Tv3UgbYa1IAw&index=2",
+      "categoria": "Desafios em Ilhas Misteriosas"
+    },
+    {
+      "id": 11,
+      "titulo": "ONE PIECE: A Série | Trailer oficial",
+      "descricao":"O pirata Monkey D. Luffy e sua tripulação exploram um mundo fantástico de oceanos infinitos e ilhas exóticas em busca do maior tesouro do mundo. Luffy tem apenas um objetivo: se tornar o próximo Rei dos Piratas.",
+      "capa": "https://img.youtube.com/vi/YC8SLpnxsL4/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=YC8SLpnxsL4&list=PLFXaK79ygXwQEYTx8oaFftGMqptjsTEp6&index=5",
+      "categoria": "Live Action"
+    },
+    {
+      "id": 12,
+      "titulo": "ONE PIECE: Temporada 2 | Início da produção",
+      "descricao":"Prepare yourselves as the Straw Hats head towards the Grand Line!",
+      "capa": "https://img.youtube.com/vi/hi_dS1vg-js/hqdefault.jpg",
+      "link": "https://www.youtube.com/watch?v=hi_dS1vg-js",
+      "categoria": "Live Action"
+    }  
+  ]
+}
+  

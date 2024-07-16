@@ -1,0 +1,20 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 2.2em;
+    background-color: #000000;
+}
+
+.navegacao {
+    display: flex;
+    margin-right: 20px;
+}
+
+@media (max-width: 720px) {
+    .cabecalho img{
+       width: 100px;
+       height: 25px;
+       justify-content: space-between;
+    }
+}
