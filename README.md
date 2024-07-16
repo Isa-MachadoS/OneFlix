@@ -69,5 +69,6 @@ A aplicação estará disponível em `http://localhost:3000`.
 - **Nome:** Isadora Machado
 - **Email:** izzymachados@gmail.com
 - **GitHub:** [Isa-MachadoS]([https://github.com/seu-usuario](https://github.com/Isa-MachadoS))
+- **Linkedin:** [isadora-machados]([https://www.linkedin.com/in/isadora-machados/])
 
 ---
