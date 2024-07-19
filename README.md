@@ -72,3 +72,8 @@ A aplicação estará disponível em `http://localhost:3000`.
 - **Linkedin:** [isadora-machados]([https://www.linkedin.com/in/isadora-machados/])
 
 ---
+
+## Licença
+
+Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes [LICENSE].
+
