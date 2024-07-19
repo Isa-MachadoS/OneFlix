@@ -75,5 +75,5 @@ A aplicação estará disponível em `http://localhost:3000`.
 
 ## Licença
 
-Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes [LICENSE].
+Este projeto está licenciado sob os termos da licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
